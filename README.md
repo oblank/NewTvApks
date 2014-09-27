@@ -5,7 +5,7 @@ TV视频应用网友修正版
 
 ####注意：使用中不要升级，升级极有可能会导致不可用。
 
-| APP | 更新 | 下载地址|
+| APP | 测试时间 | 下载地址|
 | ------------- |:-------------:| -----:|
 | 优酷XL 2.5.0      | 9月27日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/%E4%BC%98%E9%85%B7XL2.5.0%E7%89%88%EF%BC%88%E5%8F%AF%E7%94%A8%EF%BC%89.apk?raw=true) |
 | 土豆TV版      | 9月27日      |   [点击下载](https://github.com/oblank/NewTvApks/blob/master/土豆TV版.apk?raw=true) |
