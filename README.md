@@ -5,19 +5,13 @@ TV视频应用网友修正版
 
 ####注意：使用中不要升级，升级极有可能会导致不可用。
 
-| APP        | 更新           | 下载地址  |
+| APP | 更新 | 下载地址|
 | ------------- |:-------------:| -----:|
 | 优酷XL 2.5.0      | 9月27日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/%E4%BC%98%E9%85%B7XL2.5.0%E7%89%88%EF%BC%88%E5%8F%AF%E7%94%A8%EF%BC%89.apk?raw=true) |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-APP |更新 |下载地址
-:------- | :------
-优酷XL 2.5.0 | 9月27日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/%E4%BC%98%E9%85%B7XL2.5.0%E7%89%88%EF%BC%88%E5%8F%AF%E7%94%A8%EF%BC%89.apk?raw=true)
-土豆TV版 | 9月27日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/土豆TV版.apk?raw=true)
-搜狐视频MAX版 | 9月27日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/搜狐视频MAX版.apk?raw=true)
-爱奇艺视频TV版v3.4.201.18588去LOGO可用版 | 9月27日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/爱奇艺视频TV版v3.4.201.18588去LOGO可用版.apk?raw=true)
-PPTV聚力V3.5.2和谐版（增加直播回看功能) | 9月27日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/PPTV聚力V3.5.2和谐版（增加直播回看功能）.apk?raw=true)
+| 土豆TV版      | 9月27日      |   [点击下载](https://github.com/oblank/NewTvApks/blob/master/土豆TV版.apk?raw=true) |
+| 搜狐视频MAX版 | 9月27日      |    [点击下载](https://github.com/oblank/NewTvApks/blob/master/搜狐视频MAX版.apk?raw=true) |
+| 爱奇艺视频TV版v3.4.201.18588去LOGO可用版		| 9月27日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/爱奇艺视频TV版v3.4.201.18588去LOGO可用版.apk?raw=true) |
+| PPTV聚力V3.5.2和谐版（增加直播回看功能) | 9月27日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/PPTV聚力V3.5.2和谐版（增加直播回看功能）.apk?raw=true) |
 
 
 ####网友提供的更多版本，未测试是否可用。
