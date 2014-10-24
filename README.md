@@ -7,9 +7,8 @@ TV视频应用网友修正版
 
 | APP | 更新时间 | 下载地址|
 | ------------- |:-------------:| -----:|
-| 优酷_2.5.0.apk      | 10月10日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/优酷_2.5.0.apk?raw=true) |
+| youku破解版.apk      | 10月25日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/youku破解版.apk?raw=true) |
 | 搜狐视频MAX版 | 9月27日      |    [点击下载](https://github.com/oblank/NewTvApks/blob/master/搜狐视频MAX版.apk?raw=true) |
-| 爱奇艺视频_5.3.3.apk	| 10月10日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/爱奇艺视频_5.3.3.apk?raw=true) |
 | 搜狐美剧_1.0.4.apk | 10月10日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/搜狐美剧_1.0.4.apk?raw=true) |
 | 风云直播_1.4.0.apk | 10月10日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/风云直播_1.4.0.apk?raw=true) |
 | VST全聚合_2.2.7.apk | 10月10日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/VST全聚合_2.2.7.apk?raw=true) |
