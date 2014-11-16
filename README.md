@@ -1,7 +1,7 @@
 TV视频应用网友修正版
 =========
 
-网友修正版，取自网络， 亲测可用。反对广电瞎折腾！（10月25日更新）
+网友修正版，取自网络， 亲测可用。反对广电瞎折腾！（11月16日更新）[@oBlank](http://twitter.com/oBlank)
 
 ####注意：使用中不要升级，升级极有可能会导致不可用。
 
@@ -9,6 +9,8 @@ TV视频应用网友修正版
 | ------------- |:-------------:| -----:|
 | youku破解版.apk      | 10月25日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/youku破解版.apk?raw=true) |
 | 搜狐视频MAX版 | 9月27日      |    [点击下载](https://github.com/oblank/NewTvApks/blob/master/搜狐视频MAX版.apk?raw=true) |
+| 爱奇艺 | 11月16日      |    [点击下载](https://github.com/oblank/NewTvApks/blob/master/爱奇艺.apk?raw=true) |
+| 土豆_v1.4.0.apk | 11月16日      |    [点击下载](https://github.com/oblank/NewTvApks/blob/master/土豆_v1.4.0.apk?raw=true) |
 | 搜狐美剧_1.0.4.apk | 10月10日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/搜狐美剧_1.0.4.apk?raw=true) |
 | 风云直播_1.4.0.apk | 10月10日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/风云直播_1.4.0.apk?raw=true) |
 | VST全聚合_2.2.7.apk | 10月10日 | [点击下载](https://github.com/oblank/NewTvApks/blob/master/VST全聚合_2.2.7.apk?raw=true) |
